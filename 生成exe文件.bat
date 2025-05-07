@@ -1,0 +1,1 @@
+pyinstaller -w -F -i "C:\Users\zhaod\OneDrive\文档\编程\原神启动器-客户端\data\Example\favicon.ico" open.py
